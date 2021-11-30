@@ -1,0 +1,13 @@
+{
+    "name": "Squoosh App",
+    "icons": [{
+    "src": "image/icon.png",
+         "sizes": "512x512",
+         "type": "image/png"
+       }],
+    "start_url": "index",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff"
+    }
